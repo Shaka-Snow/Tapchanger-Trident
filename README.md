@@ -1,5 +1,7 @@
 # Tapchanger
 
+This is currntly an unchanged fork but I plan to make it work on a Trident.
+
 A nozzle Z probe + toolchanger for Voron 2.
 
 ## Features
